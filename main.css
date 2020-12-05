@@ -1,0 +1,41 @@
+body{
+    background-color: powderblue;
+}
+h1{
+color: #66bfbf;
+}
+h3{
+    color: #66bfbf;
+}
+.head{
+    padding-right: 20px;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+.col-md-6{
+    display: inline
+}
+progress{
+    width: 275px;
+    height: 16px;
+    display: block;
+    background: white;
+    border-radius: 45px;
+    padding: 2px;
+    box-shadow: 0 1px 0px 0 rgba(red, green, blue, alpha)
+}
+span{
+    margin-left: auto;
+    text-decoration: none;
+    
+}
+.kings{
+border-radius: 50%;
+width: 250px;
+height: 250px;
+}
